@@ -1,0 +1,9 @@
+State Census Submission
+
+Full Name: Ali Shakir
+Occupation: Student
+Street Address: 1234 Fake Address
+ZIP Code: 12345678
+Number of People in Household: 4
+Age of Head of Household: 67
+Submission Time: 11/27/2025, 3:09:18 PM
